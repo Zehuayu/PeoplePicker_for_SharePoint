@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="10a1f601-a66a-4a0a-9e0b-3e452038b532" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="PeoplePicking.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="PeoplePicking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=25b7038e8c592904" Namespace="PeoplePicking.PickerDemo" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\PeoplePicking\PickerDemo\PickerDemoUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="PeoplePicking_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

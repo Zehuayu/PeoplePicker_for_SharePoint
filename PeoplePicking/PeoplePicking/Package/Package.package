@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="10a1f601-a66a-4a0a-9e0b-3e452038b532" solutionId="10a1f601-a66a-4a0a-9e0b-3e452038b532" resetWebServer="false" sharePointProductVersion="16.0" name="PeoplePicking" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="65fc10c6-e35f-4e5c-849d-dc0452080526" />
+  </features>
+</package>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="3143f0e5-7fd9-4c7c-a116-02fa85362cdf" Scope="Site" Title="PeoplePicking Feature1">
+  <ElementManifests>
+    <ElementManifest Location="PickerDemo\Elements.xml" />
+    <ElementFile Location="PickerDemo\PickerDemo.webpart" />
+  </ElementManifests>
+</Feature>
